@@ -1,4 +1,4 @@
 {
-  "sensiTest": "settings put global test_module aldo",
+  "sensiTest": "settings put global test_module brainles",
   "otherKey": "Some other value"
 }
