@@ -1,1 +1,4 @@
-settings put global test_module aldo
+{
+  "sensiTest": "settings put global test_module aldo",
+  "otherKey": "Some other value"
+}
