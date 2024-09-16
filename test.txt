@@ -1,1 +1,1 @@
-settings put global test_module fah
+settings put global test_module jojokwork
