@@ -1,1 +1,1 @@
-settings put global test_module 1
+settings put global test_module fahrez
