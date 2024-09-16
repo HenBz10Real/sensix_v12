@@ -1,5 +1,5 @@
 {
   "sensiTest": "settings put global test_module kontolodon",
-  "tweak": "settings put global test_tweak done"
+  "tweak": "settings put global test_tweak done",
   "head": "settings put global test_head done"
 }
