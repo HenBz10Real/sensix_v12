@@ -1,1 +1,1 @@
-settings put global test_module alamakpuki
+settings put global test_module aldo
