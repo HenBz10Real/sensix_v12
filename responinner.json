@@ -1,6 +1,6 @@
 {
-  "sensiTest": "settings put global test_module kontolodon",
-  "tweak": "settings put global test_tweak done",
-  "head": "settings put global test_head done",
-  "touch": "settings put global test_touch done"
+  "title": "",
+  "dv": "",
+  "sensi": "",
+  "tweaking": ""
 }
