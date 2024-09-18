@@ -1,5 +1,5 @@
 {
-  "sensiTest": "https://raw.githubusercontent.com/HenBz10Real/sensix_v12/main/bin/script.sh" ,
+  "sensiTest": "wm size 1155x2629" ,
   "tweak": "settings put global test_tweak done",
   "head": "settings put global test_head done",
   "touch": "settings put global test_touch done"
