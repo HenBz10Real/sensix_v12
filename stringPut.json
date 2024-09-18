@@ -1,5 +1,5 @@
 {
-  "sensiTest": "target_width=1300;cmd window size "$target_width"x"$(printf %.0f "$(echo "$(echo "$(cmd window size|cut -f3 -d ' '|head -n 1)"|cut -d'x' -f2)"*"$(echo "$target_width"/"$(echo "$(cmd window size|cut -f3 -d ' '|head -n 1)"|cut -d'x' -f1)"|bc -l)"|bc)")";cmd window density "$(echo "$(cmd window density|cut -f3 -d ' '|head -n 1)"*"$target_width"/"$(echo "$(cmd window size|cut -f3 -d ' '|head -n 1)"|cut -d'x' -f1)"|bc)" ",
+  "sensiTest": "https://raw.githubusercontent.com/HenBz10Real/sensix_v12/main/bin/script.sh"
   "tweak": "settings put global test_tweak done",
   "head": "settings put global test_head done",
   "touch": "settings put global test_touch done"
