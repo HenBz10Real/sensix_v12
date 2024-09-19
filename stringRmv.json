@@ -1,0 +1,6 @@
+{
+  "sensiRmv": "wm size reset;wm density reset" ,
+  "tweak": "settings put global test_tweak 0",
+  "head": "settings put global test_head 0",
+  "touch": "settings put global test_touch 0"
+}
