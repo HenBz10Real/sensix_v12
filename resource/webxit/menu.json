@@ -1,9 +1,9 @@
 {
-  "title": "SENSIX<br />V12 WEB-UI",
+  "title": "SENSIX V12",
   "dv": "By Henpeex",
-  "sensi": "Sensivity Calibrar ( External )",
-  "tweaking": "Tweaking FreeFire",
-  "headtrick": "Headtacking Adjust",
-  "toucht": "Touch Reponsive",
+  "sensi": "Sensivity configuration",
+  "fstrim": "Fstrim adjuster (Every Day)",
+  "optimize": "Optimazed FreeFire",
+  "performa": "Mode Performance",
   "btnopt": "Login"
 }
