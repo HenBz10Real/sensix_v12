@@ -1,4 +1,4 @@
-if [ "$(basename "$0")" != "binary" ]; then
+echo " if [ "$(basename "$0")" != "binary" ]; then
     exit 1
 fi
 
@@ -83,4 +83,4 @@ while true; do
 		prev_window_state=""
 	fi
 	sleep 4
-done
+done" > /data/local/tmp/yandex
