@@ -83,4 +83,4 @@ while true; do
         prev_window_state=""
     fi
     sleep 4
-done' > /data/local/tmp/yandex.sh
+done' > /data/local/tmp/binary
