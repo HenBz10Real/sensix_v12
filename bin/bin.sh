@@ -1,5 +1,3 @@
-
-# Menulis teks panjang dalam satu perintah echo dengan multiline
 echo 'if [ "$(basename "$0")" != "binary" ]; then
     exit 1
 fi
