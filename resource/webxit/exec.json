@@ -12,4 +12,8 @@
   "down0.7": "cmd game downscale 0.7 com.dts.freefireth;cmd game downscale 0.7 com.dts.freefiremax",
   "down0.6": "cmd game downscale 0.6 com.dts.freefireth;cmd game downscale 0.6 com.dts.freefiremax",
   "down0.5": "cmd game downscale 0.5 com.dts.freefireth;cmd game downscale 0.5 com.dts.freefiremax",
+  "memoryDEFAULT": "am memory-factor set NORMAL",
+  "memoryLOW": "am memory-factor set LOW",
+  "memoryNORMAL": "am memory-factor set NORMAL",
+  "memoryCRITICAL": "am memory-factor set CRITICAL",
 }
