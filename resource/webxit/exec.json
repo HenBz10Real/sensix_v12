@@ -1,5 +1,5 @@
 {
-  "sensiTest": "wm size 1155x2629" ,
+  "fstrim": "settings put global fstrim_mandatory_interval 86400000" ,
   "tweak": "settings put global test_tweak done",
   "head": "settings put global test_head done",
   "touch": "settings put global test_touch done"
