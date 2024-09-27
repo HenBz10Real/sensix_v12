@@ -16,4 +16,7 @@
   "memoryLOW": "am memory-factor set LOW",
   "memoryNORMAL": "am memory-factor set NORMAL",
   "memoryCRITICAL": "am memory-factor set CRITICAL",
+  "defaultCompile": "cmd compile -m everything --reset com.dts.freefireth;cmd compile -m everything --reset com.dts.freefireth",
+  "speedCompile": "cmd package compile -m speed --check-prof true com.dts.freefireth;cmd package compile -m speed --check-prof true com.dts.freefireth",
+  "speedCompile": "cmd package compile -m speed --check-prof true com.dts.freefireth;cmd package compile -m speed --check-prof true com.dts.freefireth",
 }
