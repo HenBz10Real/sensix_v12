@@ -9,5 +9,6 @@
   "targetingx": "Aim targetingx ( .zlib )",
   "cacheremove": "Removale cache ( 2 detik )",
   "priority": "Priority configuration",
-  "factor": "Memory factorset"
+  "factor": "Memory factorset",
+  "down": "Downscale configuration"
 }
