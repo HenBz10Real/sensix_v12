@@ -1,6 +1,6 @@
 {
   "fstrim": "settings put global fstrim_mandatory_interval 86400000" ,
   "fstrimRmv": "settings delete global fstrim_mandatory_interval",
-  "optFreeFire": "sm defragment abort;sm idle-maint abort;am set-deterministic-uid-idle current false"
+  "optFreeFire": "sm defragment abort;sm idle-maint abort;am set-deterministic-uid-idle current false",
   "optRmv": "am set-deterministic-uid-idle current true"
 }
