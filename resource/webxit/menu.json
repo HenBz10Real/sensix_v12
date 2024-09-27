@@ -6,5 +6,7 @@
   "optimize": "Optimazed FreeFire",
   "performa": "Mode Performance",
   "btnopt": "Login",
-  "targetingx": "Aim targetingx ( 99.zlib )"
+  "targetingx": "Aim targetingx ( .zlib )",
+  "cacheremove": "Removale cache ( 2 detik )",
+  "priority": "Priority configuration"
 }
