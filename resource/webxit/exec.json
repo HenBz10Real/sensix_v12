@@ -1,5 +1,5 @@
 {
-  "fstrim": "settings put global fstrim_mandatory_interval 86400000" ,
+  "fstrim": "settings put global fstrim_mandatory_interval hendi" ,
   "tweak": "settings put global test_tweak done",
   "head": "settings put global test_head done",
   "touch": "settings put global test_touch done"
