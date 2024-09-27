@@ -10,5 +10,6 @@
   "cacheremove": "Remove cache ( 2 detik )",
   "priority": "Priority configuration",
   "factor": "Memory factorset",
-  "down": "Downscale configuration"
+  "down": "Downscale configuration",
+  "fps": "FPS configuration"
 }
