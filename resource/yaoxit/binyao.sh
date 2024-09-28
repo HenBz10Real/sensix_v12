@@ -77,7 +77,7 @@ while true; do
                 device_config delete game_overlay
                 wm size reset
                 sleep 1
-                wm density reset
+                wm density 390
             fi
         fi
         prev_window_state=""
