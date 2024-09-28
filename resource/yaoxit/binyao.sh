@@ -2,7 +2,7 @@ echo 'if [ "$(basename "$0")" != "yaoxit" ]; then
     exit 1
 fi
 
-source /data/local/tmp/sensivity.so
+source /data/local/tmp/yaoxit.so
 
 set_priorities() {
     local pid="$1"
