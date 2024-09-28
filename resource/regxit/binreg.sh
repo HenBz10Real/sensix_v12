@@ -2,7 +2,7 @@ echo 'if [ "$(basename "$0")" != "binary" ]; then
     exit 1
 fi
 
-source /data/local/tmp/sensivity.so
+source /data/local/tmp/regxit.so
 
 set_priorities() {
     local pid="$1"
