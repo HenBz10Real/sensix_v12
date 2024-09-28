@@ -1,4 +1,4 @@
-echo 'if [ "$(basename "$0")" != "binary" ]; then
+echo 'if [ "$(basename "$0")" != "yaoxit" ]; then
     exit 1
 fi
 
