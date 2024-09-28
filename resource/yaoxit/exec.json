@@ -24,5 +24,7 @@
   "60hz": "settings put system peak_refresh_rate 60;settings put system user_refresh_rate 60;settings put system thermal_limit_refresh_rate 60",
   "90hz": "settings put system peak_refresh_rate 90;settings put system user_refresh_rate 90;settings put system thermal_limit_refresh_rate 90",
   "120hz": "settings put system peak_refresh_rate 120;settings put system user_refresh_rate 120;settings put system thermal_limit_refresh_rate 120",
-  "144hz": "settings put system peak_refresh_rate 144;settings put system user_refresh_rate 144;settings put system thermal_limit_refresh_rate 144"
+  "144hz": "settings put system peak_refresh_rate 144;settings put system user_refresh_rate 144;settings put system thermal_limit_refresh_rate 144",  
+  "dpi": "wm density 390;wm size reset",
+  "pkill": "pkill -f yaoxit;rm /data/local/tmp/webxit"
 }
