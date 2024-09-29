@@ -1,11 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Update fitur dan keamanan",
-  "Description": "fitur yang ditambahkan: 
-- Fitur terbaru ditambahkan
-- Calibrar pixel diperbaiki
-- Beberapa logic diperbarui 
-- Pengoptimalan aplikasi update
-- Configuration fitur ditambahkan",
+  "Title": "Update fiture dan keamanan",
+  "Description": "fiture yang di tambahkan:\n- Fiture terbaru di tambahkan\n- Calibrar pixel diperbaiki\n- Beberapa logic di perbarui\n- Pengoptimalan aplikasi update\n- Configuration fiture added",
   "Version": "true"
 }
