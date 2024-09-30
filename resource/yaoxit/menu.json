@@ -9,6 +9,7 @@
   "targetingx": "Aim targetingx ( .zlib )",
   "cacheremove": "Remove cache ( 5 detik )",
   "fps": "FPS configuration",
+  "factor": "Memory factorset",
   "compile": "Compile configuration",
   "type": "YAOXIT"
 }
