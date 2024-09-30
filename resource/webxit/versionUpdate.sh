@@ -3,4 +3,4 @@ echo 'export async function setVersion() {
     versionDiv.setAttribute("id", "currentVersion");
     versionDiv.setAttribute("data-version", "1.6");
     document.body.appendChild(versionDiv);
-}'>/sdcard/VortexModules/yaoxit/webroot/version.js
+}'>/sdcard/VortexModules/webxit/webroot/version.js
