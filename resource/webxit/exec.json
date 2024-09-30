@@ -21,10 +21,10 @@
   "secondaryCompile": "cmd package reconcil e-secondary-dex-files com.dts.freefireth;cmd package reconcil e-secondary-dex-files com.dts.freefiremax",
   "layoutsCompile": "cmd package compile --compile-layouts com.dts.freefireth;cmd package compile --compile-layouts com.dts.freefiremax",
   "hzSettings": "device_config put game_overlay com.dts.freefireth mode=2,touchScale=1,scrollDuration=0,tapDuration=0,touchRate=240,scrollFriction=0.007;device_config put game_overlay com.dts.freefiremax  mode=2,touchScale=1,scrollDuration=0,tapDuration=0,touchRate=240,scrollFriction=0.007",
-  "60hz": "settings put system peak_refresh_rate 60;settings put system user_refresh_rate 60;settings put system thermal_limit_refresh_rate 60",
-  "90hz": "settings put system peak_refresh_rate 90;settings put system user_refresh_rate 90;settings put system thermal_limit_refresh_rate 90",
-  "120hz": "settings put system peak_refresh_rate 120;settings put system user_refresh_rate 120;settings put system thermal_limit_refresh_rate 120",
-  "144hz": "settings put system peak_refresh_rate 144;settings put system user_refresh_rate 144;settings put system thermal_limit_refresh_rate 144",
+  "hz60": "settings put system peak_refresh_rate 60;settings put system user_refresh_rate 60;settings put system thermal_limit_refresh_rate 60",
+  "hz90": "settings put system peak_refresh_rate 90;settings put system user_refresh_rate 90;settings put system thermal_limit_refresh_rate 90",
+  "hz120": "settings put system peak_refresh_rate 120;settings put system user_refresh_rate 120;settings put system thermal_limit_refresh_rate 120",
+  "hz144": "settings put system peak_refresh_rate 144;settings put system user_refresh_rate 144;settings put system thermal_limit_refresh_rate 144",
   "dpi": "wm density 390;wm size reset",
   "pkill": "pkill -f webxit;rm /data/local/tmp/webxit"
 }
