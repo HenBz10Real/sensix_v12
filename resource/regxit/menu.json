@@ -2,10 +2,14 @@
   "title": "SENSIX V12",
   "dv": "By Henpeex",
   "sensi": "Sensivity configuration",
-  "fstrim": "Fstrim adjuster (Every Day)",
+  "fstrim": "Fstrim adjuster ( Every Day )",
+  "optimize": "Optimazed FreeFire",
+  "performa": "Mode Performance",
   "btnopt": "Login",
   "targetingx": "Aim targetingx ( .zlib )",
-  "cacheremove": "Remove cache ( 11 detik )",
+  "cacheremove": "Remove cache ( 2 detik )",
+  "factor": "Memory factorset",
+  "down": "Downscale configuration",
   "fps": "FPS configuration",
   "type": "REGXIT"
 }
