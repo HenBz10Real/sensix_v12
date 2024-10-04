@@ -27,5 +27,6 @@
   "hz144": "settings put system peak_refresh_rate 144;settings put system user_refresh_rate 144;settings put system thermal_limit_refresh_rate 144",
   "dpi": "wm density 390;wm size reset",
   "pkill": "pkill -f webxit;rm /data/local/tmp/webxit",
-  "sensivity": "wm size 1900x4246"
+  "sensivity": "wm size 1900x4246",
+  "calibrar": "303360"
 }
