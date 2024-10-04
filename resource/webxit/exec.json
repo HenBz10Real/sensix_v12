@@ -28,5 +28,5 @@
   "dpi": "wm density 390;wm size reset",
   "pkill": "pkill -f webxit;rm /data/local/tmp/webxit",
   "sensivity": "wm size 1900x4246",
-  "calibrar": "303360"
+  "calibrar": "303536"
 }
