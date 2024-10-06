@@ -12,6 +12,6 @@
   "90hz": "settings put system peak_refresh_rate 90;settings put system user_refresh_rate 90;settings put system thermal_limit_refresh_rate 90",
   "120hz": "settings put system peak_refresh_rate 120;settings put system user_refresh_rate 120;settings put system thermal_limit_refresh_rate 120",
   "144hz": "settings put system peak_refresh_rate 144;settings put system user_refresh_rate 144;settings put system thermal_limit_refresh_rate 144",
-  "sensivity": "wm size 1445x3238",
-  "calibrar": "230824"
+  "sensivity": "wm size 1369x3075",
+  "calibrar": "218624"
 }
