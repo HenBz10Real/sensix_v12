@@ -10,5 +10,7 @@
   "descAimPosition": "fitur ini menganalisis pemain menyesuaikan titik fokus mereka untuk mendapatkan posisi aim yang lebih akurat dan strategis.",
   "textDexCompiler": "Dex Compiler FreeFire",
   "descDexCompiler": "memudahkan pengguna dalam mengelola dan mengoptimalkan file DEX, memperluas pengalaman bermain dengan kontrol lebih besar atas elemen game.",
+  "textBypassTool": "FFRTC Bypass Tool",
+  "descBypassTool": "Menghapus log permainan FreeFire setiap 10 detik secara otomatis, menjaga privasi pemain dan mengurangi risiko deteksi aktivitas.",
   "mmk": "sssss"
 }
