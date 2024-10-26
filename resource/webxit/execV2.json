@@ -1,4 +1,4 @@
 {
-  "": "",
-  "": ""
+  "switchHeadtrick": "cmd game downscale 2.0 com.dts.freefireth;cmd game downscale 2.0 com.dts.freefiremax",
+  "switchHeadtrickRmv": "cmd game downscale disable com.dts.freefireth;cmd game downscale disable com.dts.freefiremax"
 }
