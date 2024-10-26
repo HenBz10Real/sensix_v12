@@ -9,6 +9,6 @@
   "aimPositionRmv": "",
   "dexCompiler": "cmd package reconcil e-secondary-dex-files com.dts.freefireth;cmd package reconcil e-secondary-dex-files com.dts.freefiremax",
   "dexCompilerRmv": "cmd compile -m everything --reset com.dts.freefireth;cmd compile -m everything --reset com.dts.freefiremax",
-  "": "",
-  "": ""
+  "bypassTool": "",
+  "bypassToolRmv": ""
 }
