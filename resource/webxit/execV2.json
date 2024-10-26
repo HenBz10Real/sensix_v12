@@ -9,8 +9,8 @@
   "aimPositionRmv": "null",
   "dexCompiler": "cmd package reconcil e-secondary-dex-files com.dts.freefireth;cmd package reconcil e-secondary-dex-files com.dts.freefiremax",
   "dexCompilerRmv": "cmd compile -m everything --reset com.dts.freefireth;cmd compile -m everything --reset com.dts.freefiremax",
-  "bypassTool": "null",
-  "bypassToolRmv": "null",
+  "bypassTool": "nohup sh /sdcard/ramdump/bypass.dex",
+  "bypassToolRmv": "pkill -f bypass.dex",
   "FreeFireOptimization": "null",
   "FreeFireOptimizationRmv": "null",
   "calibrar": "287520"
