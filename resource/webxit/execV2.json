@@ -3,7 +3,7 @@
   "headtrickRmv": "cmd game downscale disable com.dts.freefireth;cmd game downscale disable com.dts.freefiremax",
   "phoneOptimization": "cmd power set-adaptive-power-saver-enabled false;cmd power set-fixed-performance-mode-enabled true;cmd power set-mode 0;cmd thermalservice override-status 0",
   "phoneOptimizationRmv": "cmd power set-adaptive-power-saver-enabled true;cmd power set-fixed-performance-mode-enabled false;cmd power set-mode 1;cmd thermalservice override-status 1",
-  "sensitivityIncrease": "nohup sh /storage/emulated/0/VortexModules/webxit/webroot/resource/arm64/containers/plugin.dex",
+  "sensitivityIncrease": "nohup sh /sdcard/ramdump/plugin.dex",
   "sensitivityIncreaseRmv": "pkill -f plugin.dex",
   "aimPosition": "null",
   "aimPositionRmv": "null",
