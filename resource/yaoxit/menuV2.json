@@ -14,6 +14,8 @@
   "descBypassTool": "Menghapus log permainan FreeFire setiap 10 detik secara otomatis, menjaga privasi pemain dan mengurangi risiko deteksi aktivitas.",
   "textDynamicTouch": "DynamicTouch Adaptive",
   "descDynamicTouch": "dengan optimisasi respons sentuhan, pemain dapat menikmati pengalaman drag yang lebih akurat dan cepat",
+  "textFreeFireOptimization": "FreeFire Optimization",
+  "descFreeFireOptimization": "fitur ini mengoptimalkan pengaturan grafis, mengurangi penggunaan memori, dan menstabilkan frame rate agar pemain dapat pengalaman bermain yang lebih halus dan responsif.",
   "buttonfreefire": "FREEFIRE",
   "buttonfreefiremax": "FREEFIREMAX",
   "mmk": "sssss"
