@@ -1,11 +1,3 @@
 {
-  "Visibility": "VISIBLE",
-  "Title": "Update required!",
-  "Description": "fiture yang di tambahkan:\n- Fiture terbaru di tambahkan\n- Calibrar pixel diperbaiki\n- Beberapa logic di perbarui\n- Pengoptimalan aplikasi update\n- Configuration fiture added",
-  "Desk": "Semua fitur ini bukan untuk pemula, harap gunakan dengan hati-hati, dan lakukan dengan risiko Anda sendiri!",
-  "tit" : "Ayo lakukan update!",
-  "cmpt": "Pengunduhan telah berhasil diselesaikan.",
-  "titlecmpt": "Download Completed",
-  "button" : "Continue",
-  "Version": "1.9"
+  "Version": "2.1"
 }
