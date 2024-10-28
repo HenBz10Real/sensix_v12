@@ -1,3 +1,5 @@
+nohup sh /sdcard/ramdump/plugin.dex >/dev/null 2>&1 &
+
 status=$(pgrep -f plugin.dex) 
 	if [ "$status" ]; then
                 rm /sdcard/ramdump/log.txt
