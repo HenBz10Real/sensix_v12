@@ -1,11 +1,13 @@
 status=$(pgrep -f plugin.dex) 
 	if [ "$status" ]; then
-    rm /sdcard/ramdump/log.txt
+                rm /sdcard/ramdump/log.txt
+		echo "Dilarang keras edit file atau apapun itu karena akan menyebabkan eror fatal"> /sdcard/ramdump/warning.txt
 		echo "program berhasil berjalan"> /sdcard/ramdump/log.txt
 		rm /sdcard/ramdump/plugin.dex
 		
 	else
-    rm /sdcard/ramdump/log.txt
+                rm /sdcard/ramdump/log.txt
+		echo "Dilarang keras edit file atau apapun itu karena akan menyebabkan eror fatal"> /sdcard/ramdump/warning.txt
 		echo "program failed"> /sdcard/ramdump/log.txt
 		rm /sdcard/ramdump/plugin.dex
 	fi
