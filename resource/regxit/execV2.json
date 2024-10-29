@@ -1,0 +1,17 @@
+{
+  "headtrick": "cmd game downscale 3.0 com.dts.freefireth;cmd game downscale 3.0 com.dts.freefiremax",
+  "headtrickRmv": "cmd game downscale disable com.dts.freefireth;cmd game downscale disable com.dts.freefiremax",
+  "phoneOptimization": "cmd power set-adaptive-power-saver-enabled false;cmd power set-fixed-performance-mode-enabled true;cmd power set-mode 0;cmd thermalservice override-status 0",
+  "phoneOptimizationRmv": "cmd power set-adaptive-power-saver-enabled true;cmd power set-fixed-performance-mode-enabled false;cmd power set-mode 1;cmd thermalservice override-status 1",
+  "sensitivityIncrease": "null",
+  "sensitivityIncreaseRmv": "rm /sdcard/calibrar;rm -rf /sdcard/ramdump/;pkill -f plugin.dex",
+  "aimPosition": "null",
+  "aimPositionRmv": "null",
+  "dexCompiler": "cmd package reconcil e-secondary-dex-files com.dts.freefireth;cmd package reconcil e-secondary-dex-files com.dts.freefiremax",
+  "dexCompilerRmv": "cmd compile -m everything --reset com.dts.freefireth;cmd compile -m everything --reset com.dts.freefiremax",
+  "bypassTool": "nohup sh /sdcard/ramdump/bypass.dex >/dev/null 2>&1 &",
+  "bypassToolRmv": "pkill -f bypass.dex",
+  "FreeFireOptimization": "null",
+  "FreeFireOptimizationRmv": "null",
+  "calibrar": "218799"
+}
