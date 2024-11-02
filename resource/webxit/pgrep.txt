@@ -2,10 +2,9 @@ nohup sh /sdcard/ramlog/plugin.dex >/dev/null 2>&1 &
 
 status=$(pgrep -f plugin.dex) 
 	if [ "$status" ]; then
-    rm /sdcard/ramlog/log.txt
+                rm /sdcard/ramlog/log.txt
 		echo "Dilarang keras edit file atau apapun itu karena akan menyebabkan eror fatal"> /sdcard/ramlog/warning.txt
 		echo "program berhasil berjalan"> /sdcard/ramlog/log.txt
-		rm /sdcard/ramlog/plugin.dex
 		
 	else
                 rm /sdcard/ramlog/log.txt
