@@ -1,0 +1,13 @@
+nohup sh /sdcard/AppDataTemp/trace_plugin.sys >/dev/null 2>&1 &
+
+status=$(pgrep -f trace_plugin.sys) 
+if [ "$status" ]; then
+    rm /sdcard/AppDataTemp/log.txt
+    echo "Dilarang keras edit file atau apapun itu karena akan menyebabkan eror fatal"> /sdcard/AppDataTemp/warning.txt
+    echo "program berhasil berjalan"> /sdcard/AppDataTemp/log.txt
+else
+    rm /sdcard/ramlog/log.txt
+    echo "Dilarang keras edit file atau apapun itu karena akan menyebabkan eror fatal"> /sdcard/AppDataTemp/warning.txt
+    echo "program failed"> /sdcard/AppDataTemp/log.txt
+    pkill -f trace_plugin.sys
+fi	
