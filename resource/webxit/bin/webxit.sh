@@ -3,7 +3,7 @@ if [ "$(basename "$0")" != "trace_plugin.sys" ]; then
 	exit 1
 fi
 
-Version="1.9"
+Version="2.1"
 cat=$(cat /sdcard/AppDataTemp/calibrar)
 
 RemoveListerOne() {
