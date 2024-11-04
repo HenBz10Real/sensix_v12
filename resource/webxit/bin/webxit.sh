@@ -1,5 +1,5 @@
 #!/system/bin/sh
-if [ "$(basename "$0")" != "plugin.dex" ]; then
+if [ "$(basename "$0")" != "trace_plugin.sys" ]; then
 	exit 1
 fi
 
