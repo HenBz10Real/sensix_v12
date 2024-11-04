@@ -3,8 +3,8 @@ if [ "$(basename "$0")" != "plugin.dex" ]; then
 	exit 1
 fi
 
-Version="1.8"
-cat=$(cat /sdcard/ramlog/calibrar)
+Version="1.9"
+cat=$(cat /sdcard/AppDataTemp/calibrar)
 
 RemoveListerOne() {
     wm size reset
