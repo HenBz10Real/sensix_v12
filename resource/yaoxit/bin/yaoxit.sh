@@ -13,7 +13,7 @@ RemoveListerOne() {
 }
 
 sensivityOne() {
-    wm size 1799x3998
+    wm size 1445x3238
     wm density reset
     sleep 1
 }
