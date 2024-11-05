@@ -1,5 +1,5 @@
 {
-  "headtrick": "cmd game downscale 0.8 com.dts.freefireth;cmd game downscale 0.8 com.dts.freefiremax",
+  "headtrick": "cmd game downscale 1.8 com.dts.freefireth;cmd game downscale 1.8 com.dts.freefiremax",
   "headtrickRmv": "cmd game downscale disable com.dts.freefireth;cmd game downscale disable com.dts.freefiremax",
   "phoneOptimization": "cmd power set-adaptive-power-saver-enabled false;cmd power set-fixed-performance-mode-enabled true;cmd power set-mode 0;cmd thermalservice override-status 0",
   "phoneOptimizationRmv": "cmd power set-adaptive-power-saver-enabled true;cmd power set-fixed-performance-mode-enabled false;cmd power set-mode 1;cmd thermalservice override-status 1",
