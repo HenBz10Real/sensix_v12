@@ -24,7 +24,7 @@ exec 2>/dev/null
 prev_window_state=""
 game_running=""
 
-cmd="cmd notification post -S bigtext -t \"Sensitivity Aim Enhancer\" \"Tag\" \"Version: YAOXIT | Author: Henpeex\""
+cmd="cmd notification post -S bigtext -t \"Sensitivity Aim Enhancer\" \"Tag\" \"Version: REGXIT | Author: Henpeex\""
 am force-stop com.dts.freefireth
 am force-stop com.dts.freefiremax
 eval "$cmd"
