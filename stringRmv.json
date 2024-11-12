@@ -1,6 +1,6 @@
 {
   "sensiRmv": "cmd window size reset;cmd window density reset" ,
-  "tweak": "settings put global test_tweak 0",
+  "tweak": "cmd power set-fixed-performance-mode-enabled reset",
   "head": "device_config delete game_overlay",
-  "touch": "settings put global test_touch 0"
+  "touch": "null"
 }
