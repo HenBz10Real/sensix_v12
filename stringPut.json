@@ -1,7 +1,7 @@
 {
-  "sensiTest": "wm size 1152x2624;device_config put game_overlay com.dts.freefiremax mode=2,downscaleFactor=1.7:mode=3,downscaleFactor=0.8;device_config put game_overlay com.dts.freefireth mode=2,downscaleFactor=1.7:mode=3,downscaleFactor=0.8" ,
+  "sensiTest": "wm size 1152x2624" ,
   "sensiRmv": "wm size reset;wm density 340" ,
-  "tweak": "settings put global test_tweak done",
-  "head": "settings put global test_head done",
-  "touch": "settings put global test_touch done"
+  "tweak": "null",
+  "head": "device_config put game_overlay com.dts.freefiremax mode=2,downscaleFactor=1.7:mode=3,downscaleFactor=0.8;device_config put game_overlay com.dts.freefireth mode=2,downscaleFactor=1.7:mode=3,downscaleFactor=0.8",
+  "touch": "null"
 }
