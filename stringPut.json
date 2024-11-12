@@ -1,5 +1,6 @@
 {
   "sensiTest": "" ,
+  "sensiRmv": "" ,
   "tweak": "settings put global test_tweak done",
   "head": "settings put global test_head done",
   "touch": "settings put global test_touch done"
