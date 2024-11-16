@@ -9,7 +9,7 @@ cat=$(cat /sdcard/AppDataTemp/calibrar)
 RemoveListerOne() {
     wm size reset
     sleep 1
-    wm density 390
+    wm density 350
 }
 
 sensivityOne() {
