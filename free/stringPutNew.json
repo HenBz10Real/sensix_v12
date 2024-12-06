@@ -2,5 +2,5 @@
   "sensiTest": "wm size 1280x2830" ,
   "tweak": "cmd power set-fixed-performance-mode-enabled true",
   "head": "device_config put game_overlay com.dts.freefiremax mode=2,downscaleFactor=1.7:mode=3,downscaleFactor=0.8;device_config put game_overlay com.dts.freefireth mode=2,downscaleFactor=1.7:mode=3,downscaleFactor=0.8",
-  "touch": "null"
+  "touch": "settings put global collect_stats 0"
 }
